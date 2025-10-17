@@ -91,7 +91,7 @@ python -c "import transformers, peft, datasets; print('所有依赖安装成功!
 
 #### 步骤1：准备模型文件
 
-确保 `qwen1.5-0.5b-model/` 目录包含基础模型文件。
+请先从huggingface下载Qwen1.5-0.5B模型文件，确保 `qwen1.5-0.5b-model/` 目录包含基础模型文件。
 
 
 #### 步骤2：数据准备
